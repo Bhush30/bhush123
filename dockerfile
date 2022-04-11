@@ -1,6 +1,6 @@
 #first docker file
 
-FROM ubuntu 
+FROM php
 
 MAINTAINER bhushan
 
